@@ -13,7 +13,6 @@ public class CiclosVidaBeanApplication {
 		SpringApplication.run(CiclosVidaBeanApplication.class, args);
 
 		Clase3 clase3 = new Clase3();
-		clase3.escribe(args);
 
 	}
 
